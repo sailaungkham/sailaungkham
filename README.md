@@ -6,12 +6,18 @@ Machine Learning Engineer
 
 I am a Computer Engineering student who love Machine Learning field.
 
-*   🌍  I'm based in Berlin
-*   ✉️  You can contact me at [laungkham454@gmail.com](mailto:laungkham454@gmail.com)
-*   🧠  I'm learning Python, Java, C#
-*   🤝  I'm open to collaborating on Projects
-*   ⚡  I am Batman, Tell Everyone<a href="https://www.github.com/sailaungkham" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/sailaungkham?logo=github&style=for-the-badge&color=facc15&labelColor=0f172a" /></a>### Skills 
+* 🌍  I'm based in Berlin
+* ✉️  You can contact me at [laungkham454@gmail.com](mailto:laungkham454@gmail.com)
+* 🧠  I'm learning Python, Java, C#
+* 🤝  I'm open to collaborating on Projects
+* ⚡  I am Batman, Tell Everyone
+
+<a href="https://www.github.com/sailaungkham" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/sailaungkham?logo=github&style=for-the-badge&color=facc15&labelColor=0f172a" /></a>
+
+### Skills
+
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
@@ -41,14 +47,24 @@ I am a Computer Engineering student who love Machine Learning field.
 <a href="https://www.nansen.ai/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nansen-colored.svg" width="36" height="36" alt="Nansen" /></a>
 <a href="https://ipfs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ipfs-colored-dark.svg" width="36" height="36" alt="IPFS" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/sailaungkham" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/sailaungkham"><img src="https://github-readme-stats.vercel.app/api?username=sailaungkham&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&show_icons=true" alt="sailaungkham's GitHub stats" /></a><a
-                      href="http://www.github.com/sailaungkham"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=sailaungkham&stroke=ffffff&background=0f172a&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
-                      href="http://www.github.com/sailaungkham"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sailaungkham&bg_color=0f172a&color=ffffff&line=facc15&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/sailaungkham" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sailaungkham&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/sailaungkham" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/LaungKham_77" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/sailaungkham"><img src="https://github-readme-stats.vercel.app/api?username=sailaungkham&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&show_icons=true" alt="sailaungkham's GitHub stats" /></a>
+
+<a href="http://www.github.com/sailaungkham"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sailaungkham&stroke=ffffff&background=0f172a&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/sailaungkham"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sailaungkham&bg_color=0f172a&color=ffffff&line=facc15&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/sailaungkham" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sailaungkham&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
